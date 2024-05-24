@@ -24,10 +24,10 @@ This project simulates e-commerce operations for a chosen brand. The system enco
 
 **Project Files:**
 
-* `data_generation.py`: Script for generating simulated data
-* `database_schema.sql`: Script for creating the database schema 
-* `data_import.sql`: Script for importing data into the database 
-* `powerbi_dashboard.pbix`: Power BI dashboard file
+* `Data Generation Using Faker Library.ipynb`: Script for generating simulated data
+* `Ecommerce.sql`: Script for creating the database schema 
+* `Ecommerce.sql`: Script for importing data into the database 
+* `Ecommerce Dashboard.pbix`: Power BI dashboard file
 * `README.md`: This file
 
 **Presentation:**
@@ -39,11 +39,11 @@ A video presentation (not included in this repository) explains the methodologic
 1. Ensure you have Python, Faker, and a database management tool (like MS SQL Server Management Studio) installed.
 2. Install any additional libraries required by the Python script (refer to script comments).
 3. Configure the database connection details in the SQL scripts.
-4. Run the `data_generation.py` script to create simulated data.
-5. Execute the `database_schema.sql` script to create the database tables in your MS SQL Server instance.
-6. Execute the `data_import.sql` script to populate the database with generated data.
+4. Run the `Data Generation Using Faker Library.ipynb` script to create simulated data.
+5. Execute the `Ecommerce.sql` script to create the database tables in your MS SQL Server instance.
+6. Execute the `Ecommerce.sql` script to populate the database with generated data.
 7. Download and install Power BI Desktop.
 8. Import the data model from your MS SQL Server database into Power BI.
 9. Develop the dashboard visuals and functionalities in Power BI.
 
-**Note:** The SQL scripts (`database_schema.sql` and `data_import.sql`) need to be modified to reflect your specific MS SQL Server setup (database name, server name, authentication method, etc.).
+**Note:** The SQL scripts (`Ecommerce.sql` and `Ecommerce.sql`) need to be modified to reflect your specific MS SQL Server setup (database name, server name, authentication method, etc.).
