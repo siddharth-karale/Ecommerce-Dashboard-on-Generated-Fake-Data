@@ -34,6 +34,8 @@ This project simulates e-commerce operations for a chosen brand. The system enco
 
 A video presentation (not included in this repository) explains the methodological approach, steps taken, and insights derived from the project.
 
+[Video Presentation](https://drive.google.com/file/d/1R-lOIrTZHRJKp4vHzR7qk5XnRyyaBK2T/view?usp=sharing)
+
 **Getting Started:**
 
 1. Ensure you have Python, Faker, and a database management tool (like MS SQL Server Management Studio) installed.
